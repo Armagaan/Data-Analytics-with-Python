@@ -20,4 +20,4 @@ This repository contains the problems convered in the live sessions for the Spri
 - Week 12	:	Classification and Regression Trees (CART)
 
 ## <img src="./youtube.png" height=30> Recorded sessions
-Find the recorded live sessions on this [YouTube channel](https://www.youtube.com/@armagaan_nptel/playlists)<br>
+Find the recorded live sessions in this [YouTube playlist](youtube.com/playlist?list=PL5W8dm-g-BcIXuLTugdWiAfo9is_7DAGT)<br>
