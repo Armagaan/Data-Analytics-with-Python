@@ -1,7 +1,7 @@
 # Data Analytics with Python
 ![Thumbnail](./data_analytics_with_python.png)
 
-This repository contains the problems convered in the live sessions for the Spring
+This repository contains the problems covered in the live sessions for the Spring
 2024 offering of the NPTEL course:
 [Data Analytics with Python](https://onlinecourses.nptel.ac.in/noc24_cs20/preview)
 
