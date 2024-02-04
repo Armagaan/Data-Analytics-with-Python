@@ -19,5 +19,5 @@ This repository contains the problems covered in the live sessions for the Sprin
 - Week 11: Clustering analysis
 - Week 12: Classification and Regression Trees (CART)
 
-## <img src="./youtube.png" height=30> Recorded sessions
+## Recorded sessions <img src="./youtube.png" height=25><br>
 Find the recorded live sessions in this [YouTube playlist](https://www.youtube.com/playlist?list=PL5W8dm-g-BcIXuLTugdWiAfo9is_7DAGT)
